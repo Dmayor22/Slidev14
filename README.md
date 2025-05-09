@@ -1,2 +1,2 @@
 # Slidev14
-Altschool JavaScript Presentation using Slidev 
+AltSchool JavaScript Presentation using Slidev 
